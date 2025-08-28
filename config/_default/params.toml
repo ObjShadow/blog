@@ -62,7 +62,7 @@ enabled = true
 provider = "giscus"
 
 [Comments.Giscus]
-repo = "ShadowObj/blog"
+repo = "ObjShadow/blog"
 repoID = "R_kgDOMcbEhw"
 category = "Announcements"
 categoryID = "DIC_kwDOMcbEh84ChRoq"

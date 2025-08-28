@@ -8,7 +8,7 @@ weight = -100
 [[social]]
 identifier = "github"
 name = "Github"
-url = "https://github.com/ShadowObj/blog"
+url = "https://github.com/ObjShadow/blog"
 params.icon = "brand-github"
 weight = -90
 
@@ -22,6 +22,6 @@ weight = -80
 [[social]]
 identifier = "telegram"
 name = "Telegram"
-url = "https://t.me/objshadow"
+url = "https://objshadow.t.me/"
 params.icon = "brand-telegram"
 weight = -70
